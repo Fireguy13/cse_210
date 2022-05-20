@@ -1,7 +1,7 @@
 import random
 
 class Guesser: 
-    words = ("tree","mars","class", "scissor", "papper", "rock" "fire" )
+    words = ("tree","mars","class", "scissor", "papper", "rock", "fire" )
     def __init__(self):
         self.random = ''
 
